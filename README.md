@@ -16,7 +16,7 @@ Full-stack developer passionate about building elegant and efficient solutions. 
 **An Elegant Accounts & Inventory Management System**
 - 💼 Complete Point-of-Sale (POS) solution
 - 📊 Advanced inventory management features
-- �� Comprehensive accounting software
+- 💰 Comprehensive accounting software
 - 🖥️ Built with C# and Windows Forms
 - **Topics:** `point-of-sale` `inventory-management-system` `accounting-software` `desktop-application`
 
